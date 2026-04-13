@@ -6,6 +6,16 @@ This project provides a comprehensive, interactive analysis of a marketing campa
 #### Explore the interactive dashboard here :-
 Marketing Campaign Analytics Dashboard – [Power BI](https://app.powerbi.com/view?r=eyJrIjoiMThkOTE5NDYtZmZlOC00M2Y0LThmMTktNzA5ZDk0MDk0MTdmIiwidCI6IjZhZTYxOTA2LTE0YTUtNDllYS05NmZkLWI2NjgzNzQ2MDlkNCJ9)
 
+## Dashboard Preview
+
+![Dashboard Overview](Overview.png)
+
+![Page 2](page2.png)
+
+![Page 3](page3.png)
+
+![Page 4](page4.png)
+
 #### Tools Used :-
 * Power BI – Data visualization & dashboard design
 * SQL – Data extraction, transformation, and aggregation
